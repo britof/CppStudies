@@ -69,3 +69,8 @@ void main() {
 //  dl2.g(); //error: BaseClass::g() is not accessible
     dl2.h();
 }
+
+/*
+Base class is called a base class or superclass, and derived classes are derived in the sense that
+they inherit  all the data and function members declared as public or protected.
+*/
